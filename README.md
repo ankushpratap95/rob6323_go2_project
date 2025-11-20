@@ -27,8 +27,7 @@ The easiest way to avoid managing keys manually is to configure **VS Code Remote
 > **Tip:** Once connected to Greene in VS Code, you can clone directly without using the terminal:
 > 1. **Sign in to GitHub:** Click the "Accounts" icon (user profile picture) in the bottom-left sidebar. If you aren't signed in, click **"Sign in with GitHub"** and follow the browser prompts to authorize VS Code.
 > 2. **Clone the Repo:** Open the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P`), type **Git: Clone**, and select it.
-> 3. **Paste URL:** Paste your repository's SSH URL (e.g., `git@github.com:...`) and press Enter.
-> 4. **Select Destination:** When prompted, select your home directory (`/home/<netid>/`) as the clone location.
+> 3. **Select Destination:** When prompted, select your home directory (`/home/<netid>/`) as the clone location.
 >
 > For more details, see the [VS Code Version Control Documentation](https://code.visualstudio.com/docs/sourcecontrol/intro-to-git#_clone-a-repository-locally).
 
