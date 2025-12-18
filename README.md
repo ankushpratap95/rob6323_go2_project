@@ -4,6 +4,8 @@ This repository contains my solution to the ROB6323 quadruped locomotion project
 
 The implementation follows the official tutorial (Parts 1–4) and extends it with additional reward shaping, regularization, and a bonus actuator friction model to satisfy the full grading criteria.
 
+To get started, follow the tutorial as provided in Project Tutorial: https://github.com/machines-in-motion/rob6323_go2_project/blob/master/tutorial/tutorial.md
+
 ---
 
 ## Project Goals
