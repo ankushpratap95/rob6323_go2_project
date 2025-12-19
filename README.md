@@ -1,10 +1,12 @@
 # ROB6323 – Stable and Smooth Locomotion for Unitree Go2
 
-This repository contains my solution to the ROB6323 quadruped locomotion project using Isaac Lab and the Unitree Go2 robot. The objective is to train a reinforcement learning (RL) policy that produces stable, smooth, and natural walking or trotting gaits while accurately tracking commanded linear and angular velocities.
+This repository contains our solution to the ROB6323 quadruped locomotion project using Isaac Lab and the Unitree Go2 robot. The objective is to train a reinforcement learning (RL) policy that produces stable, smooth, and natural walking or trotting gaits while accurately tracking commanded linear and angular velocities.
 
 The implementation follows the official tutorial (Parts 1–4) and extends it with additional reward shaping, regularization, and a bonus actuator friction model to satisfy the full grading criteria.
 
 To get started, follow the tutorial as provided in Project Tutorial: https://github.com/machines-in-motion/rob6323_go2_project/blob/master/tutorial/tutorial.md
+
+This project was submitted by Ankush Pratap Singh (ax2047) and Tejas Attarde (ta2867)
 
 ---
 
