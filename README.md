@@ -148,6 +148,7 @@ This encourages robustness to actuator uncertainty and improves realism.
 For setting up, running HPC and installing IsaacLab, follow the Project Page: https://github.com/machines-in-motion/rob6323_go2_project/tree/master
 
 From the repository root run: ./train.sh
+
 To check the status of the job: ssh burst "squeue -u $USER"
 
 ## Monitor Training (TensorBoard)
