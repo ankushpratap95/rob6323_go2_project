@@ -145,7 +145,7 @@ This encourages robustness to actuator uncertainty and improves realism.
 
 ## Running Training
 
-For setting up and running HPC, follow the Project Page: https://github.com/machines-in-motion/rob6323_go2_project/tree/master
+For setting up, running HPC and installing IsaacLab, follow the Project Page: https://github.com/machines-in-motion/rob6323_go2_project/tree/master
 
 From the repository root run:
 
