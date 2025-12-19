@@ -153,7 +153,9 @@ To check the status of the job: ssh burst "squeue -u $USER"
 
 ## Monitor Training (TensorBoard)
 
-tensorboard --logdir logs
+Download logs to your computer: rsync -avzP -e 'ssh -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null' <netid>@dtn.hpc.nyu.edu:/home/<netid>/rob6323_go2_project/logs ./
+
+On the local machine (Assuming Tensorboard is installed) run: tensorboard --logdir logs
 
 ## Expected Outcome
 After training:
